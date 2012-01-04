@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.email       = ["self@hecticjeff.net"]
   s.homepage    = "https://github.com/hecticjeff/fancybox-rails"
 
-  s.summary     = "Use FancyBox with Rails 3.1"
-  s.description = "This gem provides jQuery FancyBox for your Rails 3.1 application."
+  s.summary     = "Use FancyBox 2 with Rails 3.1"
+  s.description = "This gem provides jQuery FancyBox 2 for your Rails 3.1 application."
   s.files       = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "Gemfile", "README.md"]
   s.version     = "0.1.4"
 
