@@ -499,7 +499,6 @@
 					nextClick : false,
 					arrows : false,
 					mouseWheel : false,
-					keys : null,
 					helpers: {
 						overlay : {
 							css: {
